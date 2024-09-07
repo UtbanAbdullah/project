@@ -1,0 +1,51 @@
+.row{
+    display: flex;
+}
+
+.heading{
+text-align: center;
+background-color: rgb(163, 163, 244);
+padding: 10px;
+border-radius: 8px;
+}
+
+.pragragh{
+font-size: 25px;
+padding-left: 10px;
+padding-top: 40px;
+}
+
+.qoute{
+text-align: center;
+font-size: 20px;
+padding-top: 30px;
+text-decoration-line: underline overline;
+text-decoration-style: double;
+}
+.card-img-top{
+    border-radius: 8px;
+    
+}
+.Card{
+display: flexbox;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 100px;
+}
+body{
+    background-color: aquamarine;
+}
+.img{
+    border-image-outset: 10px;
+    padding-left: 20px;
+    border-spacing: 20px;
+    
+}
+.text{
+    text-align: center;
+    font-size: 45px;
+    color: blue;
+    text-decoration-line: underline overline;
+    text-decoration-style: double;
+    text-decoration-color: goldenrod;
+}
