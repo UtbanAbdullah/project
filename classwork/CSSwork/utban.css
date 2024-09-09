@@ -46,14 +46,7 @@ nav{
 border-radius: 5px;
 transition-duration: 0.5s;
 }
-body{
-    background-image: url(../img/OIP.jpeg);
-    background-repeat: no-repeat;
-    background-size: 500px;
-    background-position: center;
-    background-attachment: fixed;
-    background-color: rgb(248, 248, 146);
-}
+
 .pragragh{
     color: rgb(75, 6, 250); stroke: black;
     font-size: 30px;

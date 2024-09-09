@@ -32,9 +32,6 @@ justify-content: center;
 flex-wrap: wrap;
 margin-top: 100px;
 }
-body{
-    background-color: aquamarine;
-}
 .img{
     border-image-outset: 10px;
     padding-left: 20px;
