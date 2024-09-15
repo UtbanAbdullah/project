@@ -291,3 +291,88 @@ word-spacing: 6px;
     padding: 10px;
     border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
 }
+.latest{
+    font-size: 45px;
+    text-align: center;
+    text-decoration-line: underline overline;
+    text-decoration-style: double;
+    text-decoration-color: goldenrod;
+    color: blue;
+}
+.jando{
+    font-size: 45px;
+    text-align: center;
+    text-decoration-line: underline overline;
+    text-decoration-style: double;
+    text-decoration-color: goldenrod;
+    color: blue;
+}
+.case{
+    list-style-type: none;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(64, 43, 183);
+    text-shadow: 2px 2px 5px yellowgreen;
+    line-height: 50px;
+    text-decoration: none;
+}
+.haval{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
+}
+.cross{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
+}
+.MGGT{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
+}
+.proton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
+}
+.peugoet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
+}
+.MCML{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5); border-radius: 10px;
+}
